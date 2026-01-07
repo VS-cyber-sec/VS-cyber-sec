@@ -6,7 +6,7 @@ Cybersecurity & AI-enthusiast | Passionate about network security
 - Final-year student diving deep into **Cyber Security**
 - 🔭 I’m currently working on projects include a **Ai-diven cloud honeypot for attack detection**,**Vulnerable vm expoits**
 - 🌱 Currently building towards certifications like **CEH v13 AI** and **OSCP**
-- 👯 I’m looking to collaborate on **AI = Security Research Projects**
+- 👯 I’m looking to collaborate on **AI + Security Research Projects**
 - 💬 Ask me about **Cybersecurity, Networking, Linux, Github, defences**
 - 📫 How to reach me: **84vschavan@gmail.com**
 - ⚡ Fun fact: I love breaking things to learn how they work 😁
