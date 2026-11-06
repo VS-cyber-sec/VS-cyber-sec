@@ -9,7 +9,7 @@
   ╚═══╝  ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Cybersecurity+%26+AI+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Exploring+Cloud+Security+%26+IAM+%E2%98%81%EF%B8%8F;Breaking+Things+to+Learn+How+They+Work+%F0%9F%94%93;Final-Year+Student+%7C+Future+CEH+%7C+OSCP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Cybersecurity+%26+AI+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Exploring+Cloud+Security+%26+IAM+%E2%98%81%EF%B8%8F;Breaking+Things+to+Learn+How+They+Work+%F0%9F%94%93;Graduate+in+Computer+Engineering +%7C" alt="Typing SVG" />
 
 <br/>
 
@@ -32,8 +32,6 @@ $ cat /etc/vaishnavi.conf
   status     = Graduate in Computer Engineering | Cybersecurity & AI Enthusiast
   location   = India 🇮🇳
 
-[fun_fact]
-  motto      = "I break things to understand them 😁"
 ```
 
 ---
