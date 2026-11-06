@@ -29,7 +29,7 @@ $ cat /etc/vaishnavi.conf
 [identity]
   name       = Vaishnavi Chavan
   alias      = VS-cyber-sec
-  status     = Final-year student | Cybersecurity & AI Enthusiast
+  status     = Graduate in Computer Engineering | Cybersecurity & AI Enthusiast
   location   = India 🇮🇳
 
 [fun_fact]
